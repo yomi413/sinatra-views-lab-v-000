@@ -1,3 +1,3 @@
 # Time.now
 # Date.now
-# binding.pry
+binding.pry
